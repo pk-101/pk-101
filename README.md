@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Pankaj 
-- 👀 I’m interested in Blockchain, Cryptography, AI, ML and Full stack web development. 
+- 👀 I’m interested in Blockchain, Cryptography, AI, ML and Full stack web development.
+- I'm fluent in .Net(MVC, WebApi, Integration).
+- I'm fluent in ReactJs.
 - 🌱 I’m currently learning Full stack web development.
 - 💞️ I’m looking to collaborate on how to integrate cryptography with in my web application.
 - 📫 How to reach me .Email-pk4799335@gmail.com
